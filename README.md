@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [femt-huddle-landing-page-with-single-introductory-section](https://your-live-site-url.com)
+- Live Site URL: [femt-huddle-landing-page-with-single-introductory-section](https://mpluggie7.github.io/femt-huddle-landing-page-with-single-introductory-section/)
 
 ## My process
 
